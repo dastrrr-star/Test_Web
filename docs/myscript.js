@@ -34,4 +34,5 @@ function opacity1 () {
 
 function none () {
     myModal.style.display="none";
+
 }
